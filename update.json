@@ -1,6 +1,6 @@
 {
   "version": "0.3.0",
-  "notes": "See the assets to download this version and install.",
+  "notes": "新功能：提示。现在游戏中可以查看提示。调整了UI样式，修复了一些bug。",
   "pub_date": "2024-06-10T06:52:38.086Z",
   "platforms": {
     "darwin-x86_64": {
