@@ -1,23 +1,23 @@
 {
-  "version": "0.2.2",
-  "notes": "更新了自动更新界面。",
-  "pub_date": "2024-06-08T05:52:28.320Z",
+  "version": "0.3.0",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2024-06-10T06:52:38.086Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZoaTBncDFPUXYyUTBJWHVhdFdMczRzZ1JCQzBOdU5IbGFoY0EvNVVRckxnbTQ5cXJnRmhFNmFUa0dWRm95OFkwaVdMVXFOdGR1MUF1T1ZRRlVmWnZHUEYxU3ljYmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3ODI1NjUwCWZpbGU6U3Vkb3hpZGUuYXBwLnRhci5negoyY25ITlRnUUpPMTdFcW9BQm9VeFpOMzA4a3FKaEU4Y0c5RXllQjVmS1lYaE8xdG9GQnBTOXlhempnNkFPaUxQNDdxNjluZmFHczJwQittUFB3LzREQT09Cg==",
-      "url": "https://gitee.com/Nervonment/sudoxide/releases/download/v0.2.2/Sudoxide_aarch64.app.tar.gz"
-    },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZoaTBncDFPUWc5dDQxODY2Z2NVa0FmR1Z5K1ZSUktJWUNFMmJCeDIrNU5lZ0ozRmdwNUJEM3hSS21PdC9RbjVqMVc4K0ljOGxLQ3JVTVV6YjJ2N2ozWmNLN0JWR1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3ODI1NjU2CWZpbGU6U3Vkb3hpZGUuYXBwLnRhci5negpwRnBnS0gwVy81SVJrWVgzazZmeGtBRlNENzUrTzg5aW54T0w4em1ORFd4SksrOXliOWtQYkJUZHZtNUdlZEMxeURyQk5Zc1l3NmI3VGVpZVpoVXRDUT09Cg==",
-      "url": "https://gitee.com/Nervonment/sudoxide/releases/download/v0.2.2/Sudoxide_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZoaTBncDFPUW53dFVLcjl2S256ZnJVQ251czkxL3lDYmMwc01xdWI2cTd6NjdiZkR0bitzWCtmT2tkSmFBcEQ3NEdPSGJmT3NyT2x1aVdHbFRGalJrSjZTVWVUdHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4MDAxODMwCWZpbGU6U3Vkb3hpZGUuYXBwLnRhci5negpqR3RxZ2F2MUpIcTkvK3dpaTBSdGgvand1SldIUU4yTzFERDk0dHNOUlg3emtVMmxLQjQ2bmY3cDNwTkJCc0YzS1QrWXg2Z0c1ODhlajlGR0lERDlEQT09Cg==",
+      "url": "https://gitee.com/Nervonment/sudoxide/releases/download/v0.3.0/Sudoxide_x64.app.tar.gz"
     },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZoaTBncDFPUXVkTEVkVkgzTVRTYTRFNHJWamtHZGJhVkdhVnFYS1J4QzBSYnRadU56V01ENUZvRndxd1BxYTdkaFg5Y3d4NlhxazVxcml5a284ZnVHejlrdXV0bWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3ODI1OTAyCWZpbGU6c3Vkb3hpZGVfMC4yLjJfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CjNOazRkdUNIRCtoMVM2Vmd5Z3VnT0JUQmJzTGMvWlI2VXBoWWJrWjdKVHVBWVNuSzR5U2dLSnRpbzhFVEVFSkVzamFwVjFqU1ZSelJDRUJhUmlxQ0RBPT0K",
-      "url": "https://github.com/Nervonment/sudoxide/releases/download/v0.2.2/sudoxide_0.2.2_amd64.AppImage.tar.gz"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZoaTBncDFPUXEyaE5FRlY5ckJGYk9JWGcvb2ExV24vNFJTUno5Snl5Y0kyREtOK2ZTQjRkU0ROWkJZVWpOQXFiSmpJL3VtRFlOWnN0N0xoSEg2YS85SFA1K2E4T3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4MDAxODMyCWZpbGU6U3Vkb3hpZGUuYXBwLnRhci5negp5TmxhKzlSdTNNSWtXdXhqdlJMRytOWEpWdkFsaUc1THU1VXV4YmxRR3Y3ZWxUdFdWRjlteDZRT3NSWkM4aGpQOHhocmllZ3VtOUo5UDIzamNzT0lCQT09Cg==",
+      "url": "https://gitee.com/Nervonment/sudoxide/releases/download/v0.3.0/Sudoxide_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZoaTBncDFPUW9RTi9seG8zVmlaVVM5alR5YWo5MjQvOW8vTldTSmdkRy9hcHBWWWtUMlJDVmdCZE9LcFNoZGhQUTgvU0lQZ1E1eWdyaEVnZDltcktSMWhkRXhXYVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3ODI1OTQxCWZpbGU6U3Vkb3hpZGVfMC4yLjJfeDY0X3poLUNOLm1zaS56aXAKUExBOEMzS1NNU21sR2xuUFQ0VXVhMVZHTE40cWc0QmE5MDQ2ZytFeTRkSk9aT1dKQUg4ZzZ4WkVzNjIvQ2VSc09NeERoa2ErU290eUp0M0NKNUZMQXc9PQo=",
-      "url": "https://gitee.com/Nervonment/sudoxide/releases/download/v0.2.2/Sudoxide_0.2.2_x64_zh-CN.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZoaTBncDFPUWhzRVFiQlE4Q3VodUxNUjZzTTNYY1I2aG84ZXh0eVdxdk9KNGJpMytoODZwcWNleDJ4aDhFZ0RNN2F2M09kWG9GcW1FeVNScVNxOHMxdTRZV2lxR3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4MDAyMTI0CWZpbGU6U3Vkb3hpZGVfMC4zLjBfeDY0X3poLUNOLm1zaS56aXAKdlo2RUlteXUwNnRiQVdZeXFuYXo3U0hSak5ycXRDS25qUXg2N1JsSCtpV216VTgrK1ZVU2lUeHRpd0doYmRsYWY5anlieWZKLzlIdytNTUZsNFd3Q3c9PQo=",
+      "url": "https://gitee.com/Nervonment/sudoxide/releases/download/v0.3.0/Sudoxide_0.3.0_x64_zh-CN.msi.zip"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSkZoaTBncDFPUW9QSU5mSWFsM2NxbEdxb0ZjYU5qVUhQNTZLUGQzcXB3c2lCL2pCVHU0V2lUMldsa0tUV1lWZ0NkYnlwbnRUSndCeU4vdDZNNGVTeGtrMzhNenBNelFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4MDAyMzUwCWZpbGU6c3Vkb3hpZGVfMC4zLjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6CndidFRMV0ZqU0dZMFcreWhSc010Y1VMdTd2S0tpWmxZOGQ2ZEhuVGh3NThsUjhjcXNMZ0NmenY3bHMxUE9FYjc0YjJVbjhDV3YrTDlkVDI3SW91MkFRPT0K",
+      "url": "https://github.com/Nervonment/sudoxide/releases/download/v0.3.0/sudoxide_0.3.0_amd64.AppImage.tar.gz"
     }
   }
 }
